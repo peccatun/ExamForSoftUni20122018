@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\bin\Debug\netcoreapp2.2\VaporWinterSale.deps.json
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\bin\Debug\netcoreapp2.2\VaporWinterSale.runtimeconfig.json
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\bin\Debug\netcoreapp2.2\VaporWinterSale.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\bin\Debug\netcoreapp2.2\VaporWinterSale.dll
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\bin\Debug\netcoreapp2.2\VaporWinterSale.pdb
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.dll
+C:\Users\Admin\source\repos\VaporWinterSale\VaporWinterSale\obj\Debug\netcoreapp2.2\VaporWinterSale.pdb

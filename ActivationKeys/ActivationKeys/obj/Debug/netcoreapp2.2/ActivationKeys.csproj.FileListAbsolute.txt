@@ -1,0 +1,11 @@
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.deps.json
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.runtimeconfig.json
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.runtimeconfig.dev.json
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.dll
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.pdb
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.csprojAssemblyReference.cache
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.csproj.CoreCompileInputs.cache
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.AssemblyInfoInputs.cache
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.AssemblyInfo.cs
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.dll
+D:\TechModuleCSharp\ActivationKeys\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.pdb
